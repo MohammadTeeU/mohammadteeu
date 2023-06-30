@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649ebdd3d99c9d6731a2762e?variant=dark)](https://roadmap.sh)
 <!--
 **MohammadTeeU/mohammadteeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
